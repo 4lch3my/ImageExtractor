@@ -1,7 +1,7 @@
 # ImageExtractor
 Extract images from TCP streams via Python
 
-Step 1: Open in Wireshark > Gollow TCP Stream
+Step 1: Open the .pcap in Wireshark > Follow TCP Stream
 
 Step 2: Convert to RAW format > Save file as: xzy.bin
 
